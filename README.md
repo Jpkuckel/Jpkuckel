@@ -61,20 +61,20 @@ I enjoy learning new technologies, building practical projects, and sharing my p
 <h3 align="left">GitHub Stats</h3>
 
 <p>
-  <img 
+ <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-virid-xi-92.vercel.app/api?username=Jpkuckel&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    src="https://github-readme-stats-virid-xi-92.vercel.app/api?username=Jpkuckel&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=050B18&title_color=00E5FF&text_color=FFFFFF&icon_color=00C8FF&border_color=009DFF&ring_color=00E5FF&custom_title=My%20GitHub%20Statistics"
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-virid-xi-92.vercel.app/api/top-langs/?username=Jpkuckel&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats-virid-xi-92.vercel.app/api/top-langs/?username=Jpkuckel&layout=compact&custom_title=Stack&langs_count=8&bg_color=050B18&title_color=00E5FF&text_color=FFFFFF&icon_color=00C8FF&border_color=009DFF&ring_color=00E5FF" 
+/>
 
 </p>
 
@@ -83,6 +83,7 @@ I enjoy learning new technologies, building practical projects, and sharing my p
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jpkuckel/Jpkuckel/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jpkuckel/Jpkuckel/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
 ## 🚀 Philosophy
