@@ -14,12 +14,14 @@ I enjoy learning new technologies, building practical projects, and sharing my p
 <p align="left">
   <a href=https://github.com/Jpkuckel>
     <img src="https://img.shields.io/badge/GitHub-Jpkuckel-181717?style=for-the-badge&logo=github" />
-  </a>
+  </a><br>
+ 
   <a href="https://www.instagram.com/jpkuckel/">
     <img src="https://img.shields.io/badge/Instagram-@Jpkuckel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a><br>
+  
   <a href=https://www.linkedin.com/in/jo%C3%A3o-pedro-melo-kuckel-711bb3261>
-  <img src=https://img.shields.io/badge/linkedin-Jpkuckel-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white>
+  <img src="https://img.shields.io/badge/linkedin-Jpkuckel-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
 
@@ -38,26 +40,26 @@ I enjoy learning new technologies, building practical projects, and sharing my p
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)<br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)<br>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)<br>
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ### DevOps & Tools
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)<br>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)<br>
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## 📊 GitHub Stats
