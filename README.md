@@ -18,6 +18,9 @@ I enjoy learning new technologies, building practical projects, and sharing my p
   <a href="https://www.instagram.com/jpkuckel/">
     <img src="https://img.shields.io/badge/Instagram-@Jpkuckel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href=https://www.linkedin.com/in/jo%C3%A3o-pedro-melo-kuckel-711bb3261>
+  <img src=https://img.shields.io/badge/linkedin-Jpkuckel-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white>
+  </a>
 </p>
 
 ## 🧠 What I do
@@ -93,4 +96,5 @@ I enjoy learning new technologies, building practical projects, and sharing my p
 
 ⭐ Feel free to explore my repositories and leave a star if you find them useful.  
 🤝 I'm always open to learning, collaborating, and connecting with other developers
+
 
